@@ -1,0 +1,27 @@
+
+# Gemini API
+google-genai
+langchain-google-genai
+
+# LangChain
+langchain
+langchain-community
+langchain-core
+
+# PDF processing
+PyMuPDF
+Pillow
+
+# CLIP and deep learning
+transformers
+torch
+numpy
+
+# Vector database
+faiss-cpu
+
+# Environment variables
+python-dotenv
+
+# Jupyter notebook
+ipykernel
